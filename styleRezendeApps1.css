@@ -934,11 +934,11 @@
     nav#navigation .social-links {
       display: flex;
       flex-direction: row;
-      gap: 1.5rem;
+      gap: 1.7rem;
     }
   
-    nav#navigation .social-links li:nth-child(2) svg path {
-      stroke: var(--primary-color);
+    nav#navigation .social-links li:nth-child(1) svg path {
+      stroke: none;
     }
   
     nav#navigation .social-links li:nth-child(3) svg path:nth-child(3),
